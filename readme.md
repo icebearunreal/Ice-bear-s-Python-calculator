@@ -6,9 +6,12 @@ Ice bear made sure to make both QT and GTK-based versions.
 # Feel free to download whichever one you prefer!
 
 # Just a tip, if you want to download both, run this command.
-'''
+```
 git clone https://github.com/icebearunreal/Ice-bear-s-Python-calculator
-'''
+```
 
 # BYE! More from ice bear *coming soon*!
 ###### Stay tuned!
+
+# Random fun fact: This entire repo was Ice Bear's first repo made entirely via the terminal!
+# okay bye for real now!
